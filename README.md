@@ -73,7 +73,7 @@ footer{margin-top:3rem;color:var(--muted);font-size:.95rem;border-top:1px solid 
   <h1>Drawn from the Page</h1>
   <p class="lede">Words from the works of G. K. Chesterton, Bram Stoker, and Elizabeth Enright inspired artist Nathaniel Pierpont and poet Hudson Pierpont to create forty days of themed art and poetry, one prompt a day from November 5 to December 14, 2026.</p>
   <div id="app"></div>
-  <footer>Corner dots on each day: amber = drawing added, green = poem added. Words drawn from <em>The Man Who Was Thursday</em>, <em>Dracula</em>, and Enright’s children’s books.</footer>
+  <footer></footer>
 </main>
 
 <dialog id="dlg" aria-labelledby="dt">
